@@ -1,9 +1,4 @@
-# French translation of django invoice system.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# DONALD PROGRAMMEUR donaldtedom0@gmail.com, 2023.
-#
-#, fuzzy
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
